@@ -1,4 +1,4 @@
-# Project 1: Introduction to Git and GitHub
+# Benchmark 1: Introduction to Git and GitHub
 
 ## Objectives
 
