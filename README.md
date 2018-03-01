@@ -1,8 +1,8 @@
-# Benchmark 1: Introduction to Git and GitHub
+# Project 1: Introduction to Git and GitHub
 
-## Objectives
+## Driving Questions
 
-By the end of this project, you will have learned:
+By the end of this project, you should be able to answer the following:
 
 * How to set up a sane working environment for Git
   * Where can I download a copy of the Git software?
@@ -27,11 +27,3 @@ By the end of this project, you will have learned:
   * What are issues and how can they help communicate problems?
   * What are wikis and how are they useful?
   
-## Project Task Index
-
-* Part I: Setting up Git
-* Part II: The Terminal
-* Part III: Configuring Git
-* Part IV: Exploring Repositories
-* Part V: Local Repositories
-* Part VI: GitHub Online Exploration
